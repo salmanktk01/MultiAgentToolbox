@@ -1,0 +1,10 @@
+streamlit
+langchain
+langgraph
+mcp
+fastapi
+requests
+langchain-groq
+sse-starlette
+langchain-mcp-adapters
+langchain_community
