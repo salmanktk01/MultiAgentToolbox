@@ -6,8 +6,6 @@ Multi-Agent Toolbox 🤖
 
 Transform your queries into actionable insights with AI-powered agents! This Streamlit application leverages LangChain and Groq to create specialized agents that handle weather forecasts and mathematical calculations.
 
-![App Screenshot](https://via.placeholder.com/1200x600?text=Multi-Agent+Toolbox+Interface)
-
 ## Features ✨
 
 - **Weather Forecasting Agent**: Get real-time weather information for any city worldwide
